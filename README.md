@@ -7,7 +7,7 @@ Description : This project is based on low-weighted search.We can have a direct 
 Built a file searching interface which helps user to find quick search after run a program in System. 
 
 1. create user_interface. 
-2.  guied:   "http://www.yedit.com/document-management-collaboration/406-user-interface.html"
+2.  guied:   http://www.yedit.com/document-management-collaboration/406-user-interface.html
 
 3. *platform_support*: 'Windows', 'Linux', 'Mac'  etc.
 
